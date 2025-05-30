@@ -1,0 +1,2 @@
+D:\GithubNew\3\CryptoSignal2\CryptoSignal2\Cracy-Signal-Crypto\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\3\CryptoSignal2\CryptoSignal2\Cracy-Signal-Crypto\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
